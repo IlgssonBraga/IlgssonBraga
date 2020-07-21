@@ -5,4 +5,5 @@
 - 🌱 I’m currently learning node.js, linux, javascript, typescript.
 - 👯 I’m looking to collaborate on node.js projects.
 - 💬 Ask me about node.js, math and games.
-- 📫 How to reach me: ilgssonbraga@gmail.com.
+- 📫 How to reach me: contato@ilgssonbraga.com.br
+- :book: My personal blog: ilgssonbraga.com.br
