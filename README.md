@@ -9,7 +9,7 @@ I'am a huge fan of to "containerizing" applications, either with docker or podma
 To reach me you can send me a e-mail or a DM on Linkedin:
 
 - 📫 ilgssonbraga@gmail.com
-- 💬 [ilgssonbraga.com.br](https://www.linkedin.com/in/ilgsson-braga-de-morais-silva-62b213199/)
+- 💬 [ilgssonbraga](https://www.linkedin.com/in/ilgsson-braga-de-morais-silva-62b213199/)
 
 <!--- 🔭 I’m currently working on grow my knowledge in development and management of micro services.
 - 🌱 I’m currently learning node.js, golang, docker, GRPC, rabbitMQ, apache kafka.
