@@ -6,4 +6,4 @@
 - 👯 I’m looking to collaborate on node.js projects.
 - 💬 Ask me about node.js, math and games.
 - 📫 How to reach me: ilgssonbraga@gmail.com
-- :book: My personal blog: [ilgssonbraga.com.br](http://ilgssonbraga.com.br)
+# - :book: My personal blog: [ilgssonbraga.com.br](http://ilgssonbraga.com.br)
