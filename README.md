@@ -1,20 +1,18 @@
-## 👋 Hi, I'm Ilgsson Braga!
+# Hi, I'm Ilgsson Braga 👋
 
-I’m a passionate Backend Developer with experience in Java, Node.js and low-code platforms for system integration.
+**Backend Developer | Java & Spring Boot**
 
-## 🛠️ Tech Stack & Skills
+I build backend applications and system integrations, with a focus on reliable APIs, maintainable code, and practical solutions. I’m interested in using AI agents to improve software development workflows.
 
-- Languages & Frameworks: Java (Spring Boot), Node.js
+## 🛠️ Tech Stack
 
-- DevOps & Tools: Docker/Podman, Linux
+- **Languages:** Java, JavaScript, Node.js
+- **Backend:** Spring Boot, REST APIs
+- **Messaging:** Apache Kafka, event-driven systems
+- **Tools & Platforms:** Docker, Podman, Linux
+- **Practices:** Clean Code, design patterns, software integration
 
-- Messaging & Event Systems: Kafka, Event-Driven Architecture
+## 📫 Get in touch
 
-- Software Design: Design Patterns, Clean Code, Best Practices
-
-- Other Interests: Exploring how AI can boost developer productivity
-
-## To reach me you can send me a e-mail or a DM on Linkedin:
-
-- 📫 ilgssonbraga@gmail.com
-- 💬 [LinkedIn](https://www.linkedin.com/in/ilgsson-braga-de-morais-silva-62b213199)
+- Email: [ilgssonbraga@gmail.com](mailto:ilgssonbraga@gmail.com)
+- LinkedIn: [Ilgsson Braga](https://www.linkedin.com/in/ilgsson-braga-de-morais-silva-62b213199)
